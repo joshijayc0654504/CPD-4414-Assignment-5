@@ -59,6 +59,14 @@ public class products {
         }
         return conn;
     }
+
+    products(int aInt, String string, String string0, int aInt0) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    products() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
     @GET
     @Produces("application/json")
